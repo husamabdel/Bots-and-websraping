@@ -17,6 +17,7 @@ public class tester {
 		
 		WebDriverManager.firefoxdriver().setup();
 		
+		
 	}
 	
 	@Test
